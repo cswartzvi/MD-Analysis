@@ -1,0 +1,12 @@
+
+&input
+   maxstep=130000
+   mint=10
+   dt=0.09675
+   nspt=2
+   nsp(1)=64
+   nsp(2)=128
+   aindex=1
+   posfile='h2o-64.pos'
+   outfile='get_diff.out2'
+/

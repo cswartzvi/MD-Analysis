@@ -1,0 +1,16 @@
+&input_rdf
+   datafile    = 'water32_00.pos'
+   fstart      = 200
+   fstop       = 65600
+   fstep       = 50 
+   isave       = 50 
+   npart       = 96
+   box         = 18.6655
+   nsp         = 2
+   nat(1)      = 32
+   nat(2)      = 64 
+   nref1       = 1 
+   nref2       = 1 
+   rc          = 8 
+   dr          = 0.03
+/

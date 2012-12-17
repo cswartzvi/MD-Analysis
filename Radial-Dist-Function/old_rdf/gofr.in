@@ -1,0 +1,6 @@
+h2o-64.pos.rdrift h2o-64.cel.rdrift
+2 1 ! no. spec. ! no. of grs  
+64 128 ! no. of atoms for each spec.
+1 1 ! gr between spec-spec 
+3000 1 1 10 ! no. of cnfs ! starting cnf ! ave every n 
+

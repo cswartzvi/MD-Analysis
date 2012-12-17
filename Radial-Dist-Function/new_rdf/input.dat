@@ -1,0 +1,14 @@
+&input
+   atom1       =  1, 
+   atom2       =  2,
+   filePos     =  'h2o-64.pos',
+   fileCel     =  'h2o-64.cel',
+   fileOut     =  'gOH.dat',
+   ntsp        =  2,
+   nsp(1)      =  64,  
+   nsp(2)      =  128,
+   stepstart   =  1000,
+   binNum      =  200,
+   norm        =  2,
+   mic         =  1 
+/

@@ -1,0 +1,11 @@
+&indos
+   dosfile  =  'test.out',
+   eigfile  =  'test.eig',
+   Emin     =  -50,
+   Emax     =  10,
+   DeltaE   =  0.01,
+   degauss  =  7.0e-3,
+   step     =  120,
+   nbnd     =  256,
+   wk       =  2.0
+/
